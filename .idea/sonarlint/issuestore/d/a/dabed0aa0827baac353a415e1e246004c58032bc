@@ -1,0 +1,17 @@
+
+Asquid:S1948"%Make "con" transient or serializable.(úú–ùşÿÿÿÿ
+˜squid:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—
+7squid:S1659" Declare "p2" on a separate line.(‚—úğ
+Wsquid:CallToDeprecatedMethodw"/Remove this use of "getText"; it is deprecated.(ºÊïÚ
+Bsquid:S1659"&Declare "conpword" on a separate line.(Îïâ³üÿÿÿÿ
+Esquid:S21159")Add password protection to this database.(ÛÙıÿÿÿÿÿ
+;squid:S1948"$Make "rs" transient or serializable.(¶¨ÜŒ
+<squid:S1659	" Declare "l2" on a separate line.(‘¯°ãûÿÿÿÿ
+?squid:S1148o"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1948"$Make "st" transient or serializable.(˜¢Šªûÿÿÿÿ
+?squid:S1659"#Declare "pword" on a separate line.(Îïâ³üÿÿÿÿ
+<squid:S1659	" Declare "l3" on a separate line.(‘¯°ãûÿÿÿÿ
+squid:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ
+;squid:S1948"$Make "ps" transient or serializable.(ãö˜¤
+dsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(º·Ê"
+jsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(£ñ£á8’ô®¨¾-

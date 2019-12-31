@@ -1,0 +1,14 @@
+
+usquid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•´¥ûûÿÿÿÿ8ÓÓò¿-
+psquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æòÊÉ8ÚÜò¿-
+usquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¦®Òıÿÿÿÿ8‡¦Øò¿-
+psquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²šŞ8ÚÜò¿-
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(¼¸Õ…şÿÿÿÿ8ÊóÎ§¾-
+asquid:HiddenFieldCheckG"8Rename "quit" which hides the field declared at line 11.(Ë¤ŠÁ8±–Éó¿-
+Esquid:S1659""Declare "view" on a separate line.(£ ¼Óıÿÿÿÿ8„„¶¨¾-
+Hsquid:S1659
+"%Declare "mnuexit" on a separate line.(Şòú¡ÿÿÿÿÿ8ñÀ´¨¾-
+Osquid:S2387	","menuBar" is the name of a field in "Frame".(Ï»”úÿÿÿÿ8Óû±¨¾-
+Esquid:S1659""Declare "edit" on a separate line.(£ ¼Óıÿÿÿÿ8„„¶¨¾-
+Esquid:S1659""Declare "quit" on a separate line.(£ ¼Óıÿÿÿÿ8Ş«¶¨¾-
+Gsquid:S1659"$Declare "delete" on a separate line.(£ ¼Óıÿÿÿÿ8£ş¶¨¾-

@@ -1,0 +1,32 @@
+
+jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Îî¹»ùÿÿÿÿ
+Lsquid:S2115S")Add password protection to this database.(ÛÙıÿÿÿÿÿ8Ÿêâô¿-
+Bsquid:S1948"$Make "rs" transient or serializable.(¶¨ÜŒ8š—¾ô¿-
+¤squid:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§™â¤ùÿÿÿÿ8¡µôô¿-
+>squid:S1659" Declare "t3" on a separate line.(§ğˆÖ8şË»ô¿-
+>squid:S1659
+" Declare "l2" on a separate line.(ÃËÚ8ÂÃºô¿-
+>squid:S1659" Declare "t4" on a separate line.(§ğˆÖ8şË»ô¿-
+Bsquid:S1659"$Declare "staddr" on a separate line.(˜ığ8«ØÁô¿-
+Csquid:S1659"%Declare "stemail" on a separate line.(˜ığ8«ØÁô¿-
+Bsquid:S1948"$Make "ps" transient or serializable.(ãö˜¤8©‡½ô¿-
+Gsquid:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ï•õ¿-
+>squid:S1659
+" Declare "l4" on a separate line.(ÃËÚ8ÂÃºô¿-
+Csquid:S1659"%Declare "sttelno" on a separate line.(˜ığ8«ØÁô¿-
+>squid:S1659
+" Declare "l5" on a separate line.(ÃËÚ8ÂÃºô¿-
+Ÿsquid:S1186z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı²«ƒ8ÏÁîô¿-
+Gsquid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆÍˆõ¿-
+>squid:S1659" Declare "t5" on a separate line.(§ğˆÖ8şË»ô¿-
+qsquid:MaximumInheritanceDepth	"<This class has 6 parents which is greater than 5 authorized.(Îî¹»ùÿÿÿÿ8ø’÷ò¿-
+Ÿsquid:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾³§­8´ óô¿-
+Bsquid:S1659"$Declare "stname" on a separate line.(˜ığ8«ØÁô¿-
+>squid:S1659
+" Declare "l3" on a separate line.(ÃËÚ8ÂÃºô¿-
+Hsquid:S1948"%Make "con" transient or serializable.(úú–ùşÿÿÿÿ8©‡½ô¿-
+Gsquid:S1948"$Make "st" transient or serializable.(˜¢Šªûÿÿÿÿ8­Ó½ô¿-
+>squid:S1659" Declare "t2" on a separate line.(§ğˆÖ8şË»ô¿-
+Ÿsquid:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—8¤¦¹ô¿-
+¥squid:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ8¤¦¹ô¿-
+Ÿsquid:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½Éã8Êöñô¿-

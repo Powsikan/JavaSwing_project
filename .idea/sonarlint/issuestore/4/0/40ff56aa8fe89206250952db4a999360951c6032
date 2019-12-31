@@ -1,0 +1,18 @@
+
+Lsquid:S2115?")Add password protection to this database.(ÛÙıÿÿÿÿÿ8Œú¤¾-
+Gsquid:S1948"$Make "st" transient or serializable.(˜¢Šªûÿÿÿÿ8İèÑ£¾-
+¥squid:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ8…ãâ¤¾-
+Fsquid:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚„Å¤¾-
+Csquid:S1659	" Declare "l3" on a separate line.(‘¯°ãûÿÿÿÿ8şÍÎ£¾-
+Isquid:S1659"&Declare "conpword" on a separate line.(Îïâ³üÿÿÿÿ8ıªÔ£¾-
+Bsquid:S1948"$Make "ps" transient or serializable.(ãö˜¤8´âÏ£¾-
+>squid:S1659" Declare "p2" on a separate line.(‚—úğ8şÍÎ£¾-
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(šôÔ£ÿÿÿÿÿ8™°Ë£¾-
+Gsquid:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½™¥¾-
+_squid:CallToDeprecatedMethod"/Remove this use of "getText"; it is deprecated.(“Éì†8ß«ë¤¾-
+Fsquid:S1659"#Declare "pword" on a separate line.(Îïâ³üÿÿÿÿ8ıªÔ£¾-
+Hsquid:S1948"%Make "con" transient or serializable.(úú–ùşÿÿÿÿ8´âÏ£¾-
+Csquid:S1659	" Declare "l2" on a separate line.(‘¯°ãûÿÿÿÿ8şÍÎ£¾-
+Ÿsquid:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—8…§Ì£¾-
+^squid:CallToDeprecatedMethod"/Remove this use of "getText"; it is deprecated.(¨Ï®ò8ÈöÖ¤¾-
+Bsquid:S1948"$Make "rs" transient or serializable.(¶¨ÜŒ8‡ÈÒ£¾-
